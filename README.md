@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Ceasonal 🦦</h1>
 <h3 align="center">A coder in progress</h3>
 
+<a href="https://discord-cards.kurizu.repl.co/api/compact/448833361092280340?about=balls&banner=https://c4.wallpaperflare.com/wallpaper/421/479/613/winter-snow-forest-purple-sunset-trees-snowdrift-nature-wallpaper-preview.jpg">
+  <img src="https://discord-cards.kurizu.repl.co/api/compact/448833361092280340?about=balls&banner=https://c4.wallpaperflare.com/wallpaper/421/479/613/winter-snow-forest-purple-sunset-trees-snowdrift-nature-wallpaper-preview.jpg" align="right" />
+</a>
+
 Exploring various fields and languages
 - Interests so far: **Front End, Cyber Security**
 
