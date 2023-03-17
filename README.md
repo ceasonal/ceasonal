@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ceasonal 🦦</h1>
 <h3 align="center">A coder in progress</h3>
 
-<a href="https://discord-cards.kurizu.repl.co/api/card/448833361092280340?about=Evolving&banner=https://wallpapercave.com/wp/wp6433115.jpg&large_image=https://cdn.discordapp.com/attachments/642757845808578591/1085824131083292743/tumblr_0b9a18304b48d3d05ce5d997112f267b_66a82964_400.png&small_image=https://64.media.tumblr.com/c8647850012942ac194747f4503122d0/7c5b81854d22eafe-70/s1280x1920/2670cc4fdd87c086e671d6b166d0f07604553d76.jpg&hex=ccf9ff">
+<img><a href="https://discord-cards.kurizu.repl.co/api/card/448833361092280340?about=Evolving&banner=https://wallpapercave.com/wp/wp6433115.jpg&large_image=https://cdn.discordapp.com/attachments/642757845808578591/1085824131083292743/tumblr_0b9a18304b48d3d05ce5d997112f267b_66a82964_400.png&small_image=https://64.media.tumblr.com/c8647850012942ac194747f4503122d0/7c5b81854d22eafe-70/s1280x1920/2670cc4fdd87c086e671d6b166d0f07604553d76.jpg&hex=ccf9ff"></img>
 
   
 </a>
