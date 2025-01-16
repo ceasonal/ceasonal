@@ -13,12 +13,12 @@
 ⟢ 👒 Onepiece On Top <br/>
 
 # 🛠️ What I've made
-➥ [Rosa-Evo](https://rosa-evo.vercel.app/) - A Jewellery E-Commerce Website <br/>
-➥ [Xeni Bot](https://github.com/ceasonal/xeni-Dev) - A discord bot with various functionalities such as quizes for flags and anime !
-➥ [Beyond The Pitch](https://github.com/ceasonal/ValuePredictor) - Request Website for [Sipher](https://github.com/Sipher2003/Beyond-The-Pitch) 
-➥ [Treasure Quest](https://mangamemories.vercel.app/) - Request Website for [Ninad](https://github.com/NinadKarkhanis/TreasureQuest)
-➥ [Japanese-easy](https://github.com/ceasonal/learn-japanese) - A website designed to make it easier to work with Japanese Kana and Kanji dataa
-➥ [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! 
+➥ [Rosa-Evo](https://rosa-evo.vercel.app/) - A Jewellery E-Commerce Website <br/> 
+➥ [Xeni Bot](https://github.com/ceasonal/xeni-Dev) - A discord bot with various functionalities such as quizes for flags and anime ! <br/>
+➥ [Beyond The Pitch](https://github.com/ceasonal/ValuePredictor) - Request Website for [Sipher](https://github.com/Sipher2003/Beyond-The-Pitch)  <br/>
+➥ [Treasure Quest](https://mangamemories.vercel.app/) - Request Website for [Ninad](https://github.com/NinadKarkhanis/TreasureQuest) <br/>
+➥ [Japanese-easy](https://github.com/ceasonal/learn-japanese) - A website designed to make it easier to work with Japanese Kana and Kanji data <br/>
+➥ [Cordle](https://github.com/crizmo/Cordle) - Wordle for programmers ! <br/>
 
 > These are only a few of my projects, check out [My github repo](https://github.com/ceasonal?tab=repositories) to see more
 
