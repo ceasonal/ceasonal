@@ -19,7 +19,8 @@
 ➥ [Treasure Quest](https://github.com/ceasonal/treasure-quest-web) - Website requested by [Ninad](https://github.com/NinadKarkhanis/TreasureQuest). <br/>
 
 > These are only a few of my projects, check out [My github repo](https://github.com/ceasonal?tab=repositories) to see more. <br/>
-> Check out my [portfolio website](ceasonal.vercel.app).
+> Portfolio Web Coming Soon.
+
 
 
 # Thanks For Reading
