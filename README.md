@@ -10,7 +10,7 @@
 ⟢ 👒 Onepiece On Top <br/><br/>
 
 # 🛠️ What I've made
-➥  [Portfolio](https://github.com/ceasonal/interactive-portfolio) - My portfolio website.
+➥ [Portfolio](https://github.com/ceasonal/interactive-portfolio) - My portfolio website. <br/>
 ➥ [Rosa-Evo](https://github.com/ceasonal/rosa.evo) - A Jewellery E-Commerce Website. <br/> 
 ➥ [Xeni Bot](https://github.com/ceasonal/xeni-Dev) - A discord bot with various functionalities such as quizes for flags and anime ! <br/>
 ➥ [Japanese-easy](https://github.com/ceasonal/learn-japanese) - Website designed to make it easier to work with and learn Japanese letters. <br/>
